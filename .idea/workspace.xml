@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0472946c-ebeb-4e39-b002-c92814167eef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZgTsbahtNgWsyYJjfPeMHrlwaD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="py-flask-mongodb" type="PythonConfigurationType" factoryName="Python">
+      <module name="py-flask-mongodb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0472946c-ebeb-4e39-b002-c92814167eef" name="Default Changelist" comment="" />
+      <created>1585259944460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585259944460</updated>
+      <workItem from="1585259945968" duration="42000" />
+      <workItem from="1585824890336" duration="306000" />
+      <workItem from="1586016165852" duration="2496000" />
+      <workItem from="1586020084453" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="271" key="GridCell.Tab.0.bottom" timestamp="1586018844355">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="286" key="GridCell.Tab.0.bottom/0.1080.1440.900/0.0.1920.1080/-1080.-388.1080.1920@0.0.1920.1080" timestamp="1585259987641" />
+    <state width="1878" height="271" key="GridCell.Tab.0.bottom/0.1103.1440.877/0.23.1920.1057/-1080.-365.1080.1897@0.23.1920.1057" timestamp="1586018844355" />
+    <state width="1878" height="271" key="GridCell.Tab.0.center" timestamp="1586018844354">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="286" key="GridCell.Tab.0.center/0.1080.1440.900/0.0.1920.1080/-1080.-388.1080.1920@0.0.1920.1080" timestamp="1585259987639" />
+    <state width="1878" height="271" key="GridCell.Tab.0.center/0.1103.1440.877/0.23.1920.1057/-1080.-365.1080.1897@0.23.1920.1057" timestamp="1586018844354" />
+    <state width="1878" height="271" key="GridCell.Tab.0.left" timestamp="1586018844354">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="286" key="GridCell.Tab.0.left/0.1080.1440.900/0.0.1920.1080/-1080.-388.1080.1920@0.0.1920.1080" timestamp="1585259987637" />
+    <state width="1878" height="271" key="GridCell.Tab.0.left/0.1103.1440.877/0.23.1920.1057/-1080.-365.1080.1897@0.23.1920.1057" timestamp="1586018844354" />
+    <state width="1878" height="271" key="GridCell.Tab.0.right" timestamp="1586018844354">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="286" key="GridCell.Tab.0.right/0.1080.1440.900/0.0.1920.1080/-1080.-388.1080.1920@0.0.1920.1080" timestamp="1585259987640" />
+    <state width="1878" height="271" key="GridCell.Tab.0.right/0.1103.1440.877/0.23.1920.1057/-1080.-365.1080.1897@0.23.1920.1057" timestamp="1586018844354" />
+    <state x="507" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1586020085774">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585824986303" />
+    <state x="507" y="338" key="com.intellij.ide.util.TipDialog/0.1080.1440.900/0.0.1920.1080/-1080.-388.1080.1920@0.0.1920.1080" timestamp="1586020085774" />
+    <state x="507" y="354" key="com.intellij.ide.util.TipDialog/0.1103.1440.877/0.23.1920.1057/-1080.-365.1080.1897@0.23.1920.1057" timestamp="1586016167171" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py_flask_mongodb$py_flask_mongodb.coverage" NAME="py-flask-mongodb Coverage Results" MODIFIED="1586018623502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
